@@ -1,19 +1,3 @@
-## Hi there 👋
-
-<!--
-**EllyAster/EllyAster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # 👋 Hey there, I'm Toto
 
 ### 💻 Software Engineer | 🚀 Product-Driven Developer | 🔗 Web3 & Blockchain Enthusiast  
@@ -54,8 +38,8 @@ I bring ideas to life : translating concepts into products & brands people actua
 ### 🔗 Web3 Focus  
 
 - 🪙 Learning **Solana development** with **Rust** & **Anchor Framework**  
-- 🌉 Building intent-centric and interoperable smart contracts  
-- 📦 Exploring tokenomics and on-chain app design  
+- 🌉 Helping people build -> products, pipelines { marketing, team, engagement, funnels}
+- 📦   
 
 ---
 
@@ -73,8 +57,8 @@ I bring ideas to life : translating concepts into products & brands people actua
 ### 🌱 Currently Exploring  
 
 - ⚙️ **Solana Smart Contracts (Anchor)**  
-- 🧠 **Product-Led Engineering Principles**  
-- 🌍 **Decentralized Identity & Interoperability**  
+- 🧠 ** **  
+- 🌍 ** **  
 
 ---
 
