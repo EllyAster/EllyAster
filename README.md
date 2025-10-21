@@ -29,9 +29,12 @@ I bring ideas to life : translating concepts into products & brands people actua
 
 ---
 
-### 🛠️ What I Do Best  
+## 🪴 Currently Growing
 
-
+| 📂 Project | 💡 Description | 🎯 Focus |
+|-------------------|----------------|----------|
+| [**TurbinePB_Q425_EllyAster**](https://github.com/EllyAster/TurbinePB_Q425_EllyAster) | Active repo for Turbin3 coursework and Solana development projects | Solana, Anchor, smart contracts |
+| [**Rustlings**](https://github.com/EllyAster/rustlings) | Exercises from rustlings.rs | Syntax, ownership, error handling |
 
 ---
 
@@ -43,14 +46,16 @@ I bring ideas to life : translating concepts into products & brands people actua
 
 ---
 
-### 🚧 Featured Projects  
 
-| 🧰 Project | 💡 Description | ⚙️ Stack |
-|:--|:--|:--|
-| ** ** | | , , ,  |
-| **AI Video Automator** | Automated short-form video production using OpenCV + ChatGPT | Python, OpenAI, OpenCV |
-| ** ** | |  |
-| **Web3 Community Coin** | Led strategy, branding, and community engagement for a crypto product | X, Youtube, TikTok |
+
+## 📂 My Past Work
+
+
+| 🧰 Project | 💡 Description | ⚙️ Stack | 🗂️ Repo |
+|:--|:--|:--|:--|
+| **Virtual Crypto Assistant** | Multimodal animated AI assistant to manage crypto assets  | typscrpt, OpenAI LLM, Solana, Xrpl | 🔒 **Private** |
+| **AI Video Automator** | Automated short-form video production using OpenCV + ChatGPT | Python, OpenAI, OpenCV | 🔒 **Private** |
+| **Web3 Community Coins** | Led strategy, branding, and community engagement for a crypto product | X, Youtube, TikTok | 🔒 **Private** |
 
 ---
 
