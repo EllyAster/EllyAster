@@ -33,7 +33,7 @@ I bring ideas to life : translating concepts into products & brands people actua
 
 | 📂 Project | 💡 Description | 🎯 Focus |
 |-------------------|----------------|----------|
-| [**TurbinePB_Q425_EllyAster**](https://github.com/EllyAster/TurbinePB_Q425_EllyAster) | Active repo for Turbin3 coursework and Solana development projects | Solana, Anchor, smart contracts |
+| [**Pudgy Makers**](https://pudgymakers.com) | Community for builders in and out of web3 |  |
 | [**Rustlings**](https://github.com/EllyAster/rustlings) | Exercises from rustlings.rs | Syntax, ownership, error handling |
 | [**Consultations**](https://github.com/EllyAster/Consultations-) | Public consultations on varrying topics for different projects | PudgyPenguins |
 
